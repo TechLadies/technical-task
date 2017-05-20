@@ -15,7 +15,7 @@ As part of the application process, you will need to complete a technical task. 
 1. You should create a personal website in [Ruby on Rails](http://rubyonrails.org).
 2. There should be a ***Home*** page with a photo of your choice.
 3. There should be a ***About Me*** page where you desrcibe more about yourself in a couple of paragraphs.
-4. There should be a ***Video Submission*** page where you embed a YouTube video. It should be a video recording of yourself telling us why you should be 
+4. There should be a ***Video Submission*** page where you embed a YouTube video of yourself telling us why you want to be in the TechLadies Bootcamp.
 5. There should be a ***Contact Me*** page where you list your:
 
 	- Contact email (please don't list any private contact)
