@@ -22,6 +22,7 @@ As part of the application process, you will need to complete a technical task. 
 	- Link to your [GitHub](https://github.com) page (eg. [https://github.com/miccheng](https://github.com/miccheng))
 
 6. There should be a ***Blog*** page where you can include some blog posts.
+7. There should be a navigation bar with hyperlinks to all the above pages.
 
 ---
 
