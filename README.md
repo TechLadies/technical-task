@@ -23,9 +23,9 @@ As part of the application process, you will need to complete a technical task. 
 
 6. There should be a ***Blog*** page where you can include some blog posts.
 
-  - There should be a form to create new blog posts.
-  - Blog posts entries be should be saved to a database.
-  - You should also be able to edit & delete existing blog posts.
+	- There should be a form to create new blog posts.
+	- Blog posts entries be should be saved to a database.
+	- You should also be able to edit & delete existing blog posts.
 
 7. There should be a navigation bar with hyperlinks to all the above pages.
 
