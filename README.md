@@ -1,18 +1,18 @@
 # TechLadies Bootcamp - Technical Task Submission
 
-## Introduction
+## 1. Introduction
 
 The TechLadies Bootcamp is a 12-week part-time accelerated learning program designed for women who wish to be professional programmers. You'll be guided by industry experts to create products for non-profit organizations. 30% of the TechLadies Bootcamp graduates found software-related jobs and internships.
 
 Visit [http://www.techladies.co](http://www.techladies.co) for more details.
 
-## The Technical Task
+## 2. The Technical Task
 
 As part of the application process, you will need to complete a technical task. This will help us evaluate your technical capabilities before u can participate in the bootcamp.
 
 ### The Deets
 
-1. You should create a personal website in [Ruby on Rails](http://rubyonrails.org).
+1. You should create a personal website with [Ruby on Rails](http://rubyonrails.org). You may use as many [Gems](https://rubygems.org) as you wish to help you create the website.
 2. There should be a ***Home*** page with a photo of your choice.
 3. There should be a ***About Me*** page where you desrcibe more about yourself in a couple of paragraphs.
 4. There should be a ***Video Submission*** page where you embed a YouTube video of yourself telling us why you want to be in the TechLadies Bootcamp.
@@ -26,7 +26,7 @@ As part of the application process, you will need to complete a technical task. 
 
 ---
 
-### For brownie points (optional)
+### For brownie points 🍪 (optional)
 
 So having the 6 items above is sufficient. As a stretch goal, you may try to do these.
 
@@ -36,15 +36,16 @@ So having the 6 items above is sufficient. As a stretch goal, you may try to do 
 
 ---
 
-### For even more brownie points (optional)
+### For even more brownie points 🍪🍪 (totally optional)
 
 Totally unnecessary, but if you wanna show off. 😁
 
 - Add a [Facebook](https://developers.facebook.com/products/social-plugins/overview/) or [Twitter](https://dev.twitter.com/web/overview) widget in your ***Contact Me*** page.
+- Timeline of your education and career in your ***About Me*** page.
 - Having a user login section for the ***Blog*** page to ensure only you can submit the blog post.
 - Publish your personal website on [Heroku](https://www.heroku.com).
 
-## Submitting Your Entry
+## 3. Submitting Your Entry
 
 1. After you have finished building your personal website, you will need to share the source code with us. You should do so:
 
@@ -54,7 +55,7 @@ Totally unnecessary, but if you wanna show off. 😁
 2. Visit [http://www.techladies.co/forms/new](http://www.techladies.co/forms/new) to fill up the submission form. If you have already submitted the first part, do visit [http://www.techladies.co/login](http://www.techladies.co/login) instead.
 3. Under section 2, include the URL (web address) of where we can find your file.
 
-## Questions?
+## 4. Questions?
 
 If you have any other questions, do contact Elisha at elisha@techladies.co
 
