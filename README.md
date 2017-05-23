@@ -50,6 +50,19 @@ Totally unnecessary, but if you wanna show off. 😁
 - Having a user login section for the ***Blog*** page to ensure only you can submit the blog post.
 - Publish your personal website on [Heroku](https://www.heroku.com).
 
+---
+
+### Sample Mocks
+
+You may find it helpful to refer to these layout mocks when building your website. These are just to give you a visual idea of what you can build and what your final product might look like. *In no way are we expecting you to replicate this or do anything in a similar style (we don't want to limit your creativity!). However, it is also perfectly fine if you choose to do so.*
+
+![home screen](ui-mocks/home-screen.png)
+*Home*
+![blog screen](ui-mocks/blog-screen.png)
+*Blog*
+![new blog post screen](ui-mocks/blog-add-screen.png)
+*New Blog Post*
+
 ## 3. Submitting Your Entry
 
 1. After you have finished building your personal website, you will need to share the source code with us. You should do so:
