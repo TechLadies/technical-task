@@ -4,7 +4,7 @@
 
 The TechLadies Bootcamp is a 12-week part-time accelerated learning program designed for women who wish to be professional programmers. You'll be guided by industry experts to create products for non-profit organizations. 30% of the TechLadies Bootcamp graduates found software-related jobs and internships.
 
-Visit [http://www.techladies.co](http://www.techladies.co) for more details.
+Visit [http://www.techladies.co/techladies-bootcamp-3](http://www.techladies.co/techladies-bootcamp-3) for more details.
 
 ## 2. The Technical Task
 
@@ -12,16 +12,16 @@ As part of the application process, you will need to complete a technical task. 
 
 ### The Deets
 
-1. You should create a personal website with [Ruby on Rails](http://rubyonrails.org). You may use as many [Gems](https://rubygems.org) as you wish to help you create the website.
+1. You should create a personal website with [Ruby on Rails](http://rubyonrails.org) that has enough visual design to guide users to viewing and using the website. You may use as many [Gems](https://rubygems.org) as you wish to help you create the website.
 2. There should be a ***Home*** page with a photo of your choice.
 3. There should be a ***About Me*** page where you desrcibe more about yourself in a couple of paragraphs.
-4. There should be a ***Video Submission*** page where you embed a YouTube video of yourself telling us why you want to be in the TechLadies Bootcamp.
+4. There should be a ***Video Submission*** page where you embed a YouTube video of yourself telling us why you want to be in the TechLadies Bootcamp. This video should be between 2 minutes to 4 minutues.
 5. There should be a ***Contact Me*** page where you list your:
 
 	- Contact email (please don't list any private contact)
 	- Link to your [GitHub](https://github.com) page (eg. [https://github.com/miccheng](https://github.com/miccheng))
 
-6. There should be a ***Blog*** page where you can include some blog posts.
+6. There should be a ***Blog*** page where you can include some blog posts. Note: You do not need to ensure that only the admin (you) has the ability to edit, create or delete posts at this point.
 
 	- There should be a form to create new blog posts.
 	- Blog posts entries be should be saved to a database.
@@ -29,6 +29,7 @@ As part of the application process, you will need to complete a technical task. 
 
 7. There should be a navigation bar with hyperlinks to all the above pages.
 
+_Hat tip:_ To stand out from the rest, you are highly encourage to not follow one online tutorial to the T. Do read up on multiple resources to understand the concepts or google your way to finding how to accomplish what you want to code.  
 ---
 
 ### For brownie points 🍪 (optional)
@@ -37,7 +38,7 @@ So having the 6 items above is sufficient. As a stretch goal, you may try to do 
 
 - A [photo carousel](https://www.w3schools.com/bootstrap/bootstrap_carousel.asp) on the ***Home*** page.
 - Some photos in your ***About Me*** page.
-- A simple contact form on the ***Contact Me*** page.
+- A simple contact form on the ***Contact Me*** page. Information submitted through this contact form should be stored in a database.
 
 ---
 
@@ -75,4 +76,4 @@ You may find it helpful to refer to these layout mocks when building your websit
 
 ## 4. Questions?
 
-If you have any other questions, do contact Elisha at elisha@techladies.co
+If you have any other questions regarding the task, do contact Elisha at elisha@techladies.co. To ask a technical question or get help for bugs you're facing, please [join our Facebook group and ask them there](https://www.facebook.com/groups/techladiescode). 
