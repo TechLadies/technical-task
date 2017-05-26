@@ -12,8 +12,8 @@ As part of the application process, you will need to complete a technical task. 
 
 ### The Deets
 
-1. There should be a ***Home*** page with a photo of your choice AND embed a YouTube video of yourself telling us why you want to be in the TechLadies Bootcamp. For the camera-shy, you may also embed a short video of your choice (though we prefer cat videos 😻). This video should be between 2 minutes to 4 minutues.
-2. There should be a ***About Me*** page where you describe more about yourself in a couple of paragraphs.
+1. There should be a ***Home*** page with a photo of your choice.
+2. There should be a ***About Me*** page where you describe more about yourself in a couple of paragraphs AND embed a YouTube video of yourself telling us why you want to be in the TechLadies Bootcamp. For the camera-shy, you may also embed a short video of your choice (though we prefer cat videos 😻). This video should be between 2 minutes to 4 minutues.
 3. There should be a ***Contact Me*** page where you list your:
 
 	- Email address
