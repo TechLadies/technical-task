@@ -33,7 +33,7 @@ As part of the application process, you will need to complete a technical task. 
 
 ### For brownie points 🍪 (optional)
 
-So having the 6 items above is sufficient. As a stretch goal, you may try to do these. Note that this is just a reference, please feel free to create and add any features onto your app!
+So having the 5 items above is sufficient. As a stretch goal, you may try to do these. Note that this is just a reference, please feel free to create and add any features onto your app!
 
 - A [photo carousel](https://www.w3schools.com/bootstrap/bootstrap_carousel.asp) on the ***Home*** page.
 - Some photos in your ***About Me*** page.
