@@ -8,7 +8,9 @@ Visit [http://www.techladies.co/techladies-bootcamp-3](http://www.techladies.co/
 
 ## 2. The Technical Task
 
-As part of the application process, you will need to complete a technical task. This will help us evaluate your technical capabilities before you can participate in the bootcamp. ***Your task:*** Create a personal website with [Ruby on Rails](http://rubyonrails.org) that has enough visual design to guide users to viewing and using the website. You may use as many [Gems](https://rubygems.org) as you wish to help you create the website.
+As part of the application process, you will need to complete a technical task. This will help us evaluate your technical capabilities before you can participate in the bootcamp. Don't let the technical task scare you! We are here to help you acquire the skills you need to complete the task with a list of online resources! [See all materials, slides and video recordings here.](https://github.com/TechLadies/prebootcamp-workshops-2017)
+
+***Your task:*** Create a personal website with [Ruby on Rails](http://rubyonrails.org) that has enough visual design to guide users to viewing and using the website. You may use as many [Gems](https://rubygems.org) as you wish to help you create the website.
 
 ### The Deets
 
